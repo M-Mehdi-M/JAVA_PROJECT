@@ -1,0 +1,15 @@
+User with john.doe@email.com doesn't exist
+{"email":"bob.stucky@email.com","firstname":"Bob","lastname":"Stucky","address":"687 Swanson Dr. New York NY 10024","friends":[]}
+{"email":"john.doe@email.com","firstname":"John","lastname":"Doe","address":"1401 Stoltenberg Islands Geralynstad SD 36945","friends":[]}
+Insufficient amount in account for buying premium option
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"49900.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"49900.00"}]}
+{"stocksToBuy":["GOOGL", "CSCO", "JPM", "ABNB", "MSFT", "COST", "T", "V", "NFLX", "META", "GOOG", "NVDA", "BAC", "KO", "TMUS", "PG", "ADBE", "AMZN", "WMT"]}
+{"stocks":[{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"39424.00"}]}
+{"stocks":[{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"39424.00"}]}
+{"stocks":[{"stockName":"ORCL","amount":100},{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"33747.84"}]}
+{"stocks":[{"stockName":"ORCL","amount":100},{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"33449.10"}]}
+{"stocks":[{"stockName":"ORCL","amount":100},{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"33747.84"},{"currencyName":"EUR","amount":"35000.00"},{"currencyName":"GBP","amount":"0.00"}]}
+{"stocks":[{"stockName":"ORCL","amount":100},{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"33449.10"},{"currencyName":"EUR","amount":"35000.00"},{"currencyName":"GBP","amount":"0.00"}]}
+{"stocks":[{"stockName":"ORCL","amount":100},{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"33747.84"},{"currencyName":"EUR","amount":"12200.00"},{"currencyName":"GBP","amount":"20000.00"}]}
+{"stocks":[{"stockName":"ORCL","amount":100},{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"33449.10"},{"currencyName":"EUR","amount":"11972.00"},{"currencyName":"GBP","amount":"20000.00"}]}

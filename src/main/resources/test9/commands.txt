@@ -1,0 +1,34 @@
+CREATE USER bob.stucky@email.com Bob Stucky 687 Swanson Dr. New York NY 10024
+BUY PREMIUM john.doe@email.com
+CREATE USER john.doe@email.com John Doe 1401 Stoltenberg Islands Geralynstad SD 36945
+LIST USER bob.stucky@email.com
+LIST USER john.doe@email.com
+ADD ACCOUNT bob.stucky@email.com USD
+ADD ACCOUNT john.doe@email.com USD
+BUY PREMIUM john.doe@email.com
+ADD MONEY bob.stucky@email.com USD 50000
+BUY PREMIUM bob.stucky@email.com
+ADD MONEY john.doe@email.com USD 49900
+LIST PORTFOLIO bob.stucky@email.com
+LIST PORTFOLIO john.doe@email.com
+RECOMMEND STOCKS
+BUY STOCKS bob.stucky@email.com ORCL 100
+BUY STOCKS john.doe@email.com ORCL 100
+LIST PORTFOLIO bob.stucky@email.com
+LIST PORTFOLIO john.doe@email.com
+BUY STOCKS bob.stucky@email.com ADBE 10
+BUY STOCKS john.doe@email.com ADBE 10
+LIST PORTFOLIO bob.stucky@email.com
+LIST PORTFOLIO john.doe@email.com
+ADD ACCOUNT bob.stucky@email.com EUR
+ADD ACCOUNT john.doe@email.com EUR
+ADD ACCOUNT bob.stucky@email.com GBP
+ADD ACCOUNT john.doe@email.com GBP
+ADD MONEY bob.stucky@email.com EUR 35000
+ADD MONEY john.doe@email.com EUR 35000
+LIST PORTFOLIO bob.stucky@email.com
+LIST PORTFOLIO john.doe@email.com
+EXCHANGE MONEY bob.stucky@email.com EUR GBP 20000
+EXCHANGE MONEY john.doe@email.com EUR GBP 20000
+LIST PORTFOLIO bob.stucky@email.com
+LIST PORTFOLIO john.doe@email.com
